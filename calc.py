@@ -1,3 +1,4 @@
+qq
 import math
 
 x = int(input("X: "))
